@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Draggable
+  - DropZone
   layers:
   - Default
   - TransparentFX
@@ -35,8 +37,8 @@ TagManager:
   - 
   - 
   - 
-  - Interactable
-  - Head
+  - 
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
