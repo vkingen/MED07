@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Draggable
   - DropZone
+  - Photograph
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - PP
   - 
   - 
   - 
